@@ -220,6 +220,5 @@ await new Promise(r => setTimeout(r, 2000));
 👉 Dynamic = Puppeteer ya API
 👉 Best = API approach
 
----
 
----
+
